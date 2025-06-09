@@ -27,12 +27,13 @@
             }
         }
         .add{
-            width: 36px;
-            height: 36px;
+            width: 23px;
+            height: 23px;
             background-color:rgba(17, 25, 40, 0.5);
             padding:0px;
             border-radius: 10px;
             cursor: pointer;
+            padding: 7px;
         }
     }
 }
