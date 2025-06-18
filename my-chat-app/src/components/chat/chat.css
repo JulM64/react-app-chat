@@ -26,6 +26,7 @@
                 display:flex;
                 flex-direction: column;
                 gap: 5px;
+                white-space: nowrap;
 
                 span{
                     font-size:18px;
@@ -39,6 +40,16 @@
                     color:#a5a5a5;
                     margin:0;
                 }
+            }
+         }
+
+         .icons{
+            display:flex;
+            gap:20px;
+
+            img{
+                width:20px;
+                height:20px;
             }
          }
      }
