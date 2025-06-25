@@ -22,12 +22,12 @@ const Chat = () => {
                     <img src="./img.png"/>
                     <img src="./camera.png"/>
                     <img src="./mic.png"/>
+                </div>
                     <input type="text" placeholder="Type a message..."/>
                     <div className="emoji">
                         <img src="./emoji.png" alt=""/>
                     </div>
                     <button class="sendButton">Send</button>
-                </div>
             </div>
         </div>
     )
